@@ -1,8 +1,7 @@
-This is the prompt I gave ChatGPT to remember what I want going forward. 
-ChatGPT now has "PROJECTS" you can add this prompt to.
-ClaudeAI also has "PROJECTS" you can add this prompt to.
+This is the prompt I gave added to the "PROJECTS SECTION" of ClaudeAI 
+ChatGPT also has "PROJECTS" you can add this prompt to.
 Not sure yet what DeepSeek R1 will be doing as far as projects.
-Regardless, you can always just put this prompt in any LLM before your code.
+Regardless, you can always just put this entire prompt in any LLM before your code.
 
 ===============================================================================================
 
