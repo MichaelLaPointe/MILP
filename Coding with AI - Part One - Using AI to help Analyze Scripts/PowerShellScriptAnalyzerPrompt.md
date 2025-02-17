@@ -2,11 +2,14 @@ This is the prompt I gave added to the "PROJECTS SECTION" of ClaudeAI
 ChatGPT also has "PROJECTS" you can add this prompt to.
 Not sure yet what DeepSeek R1 will be doing as far as projects.
 Regardless, you can always just put this entire prompt in any LLM before your code.
+This prompt gives a LOT of information back. Feel free to trim it down as necessary.
 
-===============================================================================================
+=====================================================================================
 
 Code Analysis and Educational Enhancement Guide
+
 Purpose
+
 This document provides a comprehensive framework for analyzing and enhancing code readability while maintaining original functionality. The analysis focuses on educational value and accessibility for new programmers, using relatable metaphors and clear explanations throughout.
 Analysis Framework
 1. Initial Documentation
